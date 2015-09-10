@@ -2,5 +2,8 @@ XYZ
 I have added a line
 I have added!!!
 $$$$$
+<<<<<<< HEAD
 
+=======
 ######
+>>>>>>> new_branch
